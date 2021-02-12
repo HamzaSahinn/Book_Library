@@ -1,0 +1,9 @@
+1,Crime and Punishment,Fyodor Dostoyevski,Can,630,25.000000,1,0
+2,Anna Karenina,Lev Tolstoy,Ren,864,18.000000,0,0
+3,To Kill a Mockingbird,Harper Lee,Sel,281,18.000000,0,0
+4,The Great Gatsby,Scott Fitzger,Everest,375,23.000000,0,0
+5,Invisible Man,Ralph Ellison,Connect,581,26.000000,0,0
+6,Arsen Lupen,Maurice Leblanc,Everest,220,18.000000,3,6
+7,The Brothers Karamazov,Fyodor Dostoyevski,Penguen,1126,43.000000,0,0
+8,The Red Laugh,Leonid Andreyev,Mansuc,80,8.990000,0,0
+9,Moonbeam Alley,Stefan Zweig,Can,80,7.200000,0,0
